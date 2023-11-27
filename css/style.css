@@ -1,0 +1,21 @@
+/* styles.css */
+.card {
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 1px solid #000;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    cursor: pointer;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    display: inline-flex; /* Alterado para flex */
+    align-items: center; /* Centraliza verticalmente */
+    justify-content: center; /* Centraliza horizontalmente */
+}
+
